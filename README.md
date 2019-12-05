@@ -21,7 +21,7 @@ execute (add to /etc/rc.local to run on every boot):
 
 ```
 ./i2c1_set_clkt_tout 20000 # for 200ms
-
+```
 
 ### Thanks
 
